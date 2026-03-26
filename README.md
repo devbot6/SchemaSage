@@ -213,7 +213,7 @@ The Markdown report summarizes:
 
 
    ```bash
-   git clone <your-repo-url>
+   git clone <https://github.com/devbot6/SchemaSage>
    cd schemasage
    ```
 
