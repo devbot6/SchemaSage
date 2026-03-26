@@ -1,4 +1,12 @@
-![SchemaSage Logo](assets/schemasage-logo.png)
+<p align="center">
+  <img src="assets/schemasage-logo.png" alt="SchemaSage Logo" width="300"/>
+</p>
+
+<h1 align="center">SchemaSage</h1>
+
+<p align="center">
+  A Python-based schema inference engine for undocumented PostgreSQL databases.
+</p>
 
 SchemaSage is a Python-based schema inference engine for undocumented PostgreSQL databases. It connects to a database, extracts structural metadata, profiles columns statistically, ranks likely primary keys, infers foreign-key relationships, and flags suspicious or polymorphic references.
 
